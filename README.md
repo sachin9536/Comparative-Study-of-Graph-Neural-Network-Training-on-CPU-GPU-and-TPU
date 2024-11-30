@@ -102,14 +102,4 @@ Acknowledgments
 PyTorch and PyTorch Geometric for providing GNN libraries.
 Google Colab for computational resources.
 The community for support and feedback.
-Contact
-For any questions or suggestions, feel free to reach out:
 
-Email: your_email@example.com
-GitHub Issues: Submit an Issue
-markdown
-Copy code
-
-### Notes:
-- Replace `your_username` and `your_email@example.com` with your actual GitHub username and email.
-- Include a valid license file (`LICENSE`) if you’re using the MIT License.
